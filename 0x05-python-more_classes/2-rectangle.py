@@ -1,4 +1,6 @@
-ss Rectangle
+#!/usr/bin/python3
+"""
+defines class Rectangle
 """
 
 
